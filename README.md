@@ -16,13 +16,21 @@ See the Markdown file for the Google Colab Link within the repository.
 ### Dependencies
 
 Python: 3.13.16 (main, Oct  1 2026, 15:40:24) [GCC 13.3.0]
+
 pandas: 2.2.3
+
 numpy: 2.1.3
+
 matplotlib: 3.10.0
+
 seaborn: 0.13.2
+
 scipy: 1.16.3
+
 scikit-learn: 1.6.1
+
 statsmodels: 0.15.0
+
 phik: 0.12.5
 
 ### Assumptions and Limitations
