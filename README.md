@@ -7,7 +7,7 @@ This notebook runs through an in-depth, automated pipeline for uploading, examin
 
 ### Instructions
 
-Download the data file, or any other file, from the repository and open the Google Colab notebook. Upload the data file into the Dropbox option under the "Upload Data" section. Run through the entire notebook and use the outputs for a fully informed analytical pipeline.
+Download the data file, or any other file, from the repository and open the Google Colab notebook. Upload the data file into the Dropbox option under the "Upload Data" section. Run through the entire notebook and use the outputs for a fully informed analytical pipeline. Do not change any code. If you decide to download the notebook and use it within VS Code or Jupyter, please be aware of varying results and ensure you use one directory.
 
 ### Google Colab Link
 
